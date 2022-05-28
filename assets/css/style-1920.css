@@ -54,5 +54,20 @@
     padding-left: calc((100% - 1440px) / 2);
     padding-right: calc((100% - 1440px) / 2);
   }
+
+  /* service-page */
+  .services-wrapper {
+    padding-bottom: 100px;
+  }
+
+  .services-map iframe {
+    height: 640px;
+  }
+
+  /* shop-page */
+  .shop-title {
+    font-size: 18px;
+    height: 80px;
+  }
 }
 /*# sourceMappingURL=style-1920.css.map */
