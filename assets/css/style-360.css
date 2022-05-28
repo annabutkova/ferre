@@ -1129,4 +1129,21 @@ h5 {
   top: -10%;
   width: 30%;
 }
+
+/* certificates */
+.certificates-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  width: 100%;
+  padding-bottom: 60px;
+}
+
+.certificate {
+  width: 100%;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
 /*# sourceMappingURL=style-360.css.map */

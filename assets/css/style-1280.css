@@ -283,5 +283,10 @@
     margin: -150px auto 100px;
     padding: 60px 60px 65px;
   }
+
+  /* certificates */
+  .certificates-wrapper {
+    padding-bottom: 130px;
+  }
 }
 /*# sourceMappingURL=style-1280.css.map */

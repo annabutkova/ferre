@@ -26,5 +26,15 @@
   .key-text {
     padding: 30px;
   }
+
+  /* certificates */
+  .certificate {
+    width: calc((100% - 10px) / 2);
+    margin-bottom: 10px;
+    margin-right: 10px;
+  }
+  .certificate:nth-child(2n) {
+    margin-right: 0;
+  }
 }
 /*# sourceMappingURL=style-500.css.map */
